@@ -1,0 +1,11 @@
+# Minimal dependencies for ViT intrinsic-dimension + LoRA pipeline
+# Target environment: Python 3.7, PyTorch 1.10.x, CUDA 10.2 (Huawei Cloud Notebook)
+
+numpy>=1.19,<2.0
+tqdm>=4.50
+matplotlib>=3.3
+pandas>=1.1
+seaborn>=0.11
+
+# ViT backbone
+timm==0.6.13

@@ -1,0 +1,28 @@
+# Intrinsic Dimension Paper Reimplementation
+# Li et al., ICLR 2018: "Measuring the Intrinsic Dimension of Objective Landscapes"
+# 
+# Compatible with PyTorch 1.8.0+ (Huawei Cloud compatible)
+
+# Core - PyTorch 1.8.0 compatible versions
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.19.0,<2.0.0
+
+# Data & Visualization
+matplotlib>=3.3.0
+pandas>=1.1.0
+seaborn>=0.11.0
+tqdm>=4.50.0
+
+# RL Environments (use gym instead of gymnasium for older PyTorch compatibility)
+# Note: gymnasium requires Python 3.8+ and is newer, gym works with older setups
+gym>=0.18.0
+# gym[atari]>=0.18.0  # Optional, uncomment if needed
+# gym[mujoco]>=0.18.0  # Optional, uncomment if needed
+
+# Jupyter (optional, for notebooks)
+jupyter>=1.0.0
+ipykernel>=5.3.0
+
+# For ImageNet (optional)
+timm>=0.6.7  # For ViT transfer experiments (LoRA + intrinsic dimension)
