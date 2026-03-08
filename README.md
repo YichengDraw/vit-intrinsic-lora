@@ -76,6 +76,22 @@ Main modes are `full`, `linear`, `lora`, `id_module`, and `id_full`.
 - `src/models/lora.py`: LoRA wrappers
 - `src/models/subspace.py`: intrinsic-dimension wrapper
 
+## Visual Summary
+
+```mermaid
+flowchart LR
+  A[Pretrained ViT] --> B[full]
+  A --> C[linear]
+  A --> D[lora]
+  A --> E[id_module]
+  A --> F[id_full]
+  D --> G[Inject low-rank adapters]
+  E --> H[Train low-d subspace on selected modules]
+  F --> I[Train low-d subspace over the full parameter space]
+```
+
+This is the comparison the repository is built around: keep the same base ViT, then vary how many parameters are trainable and where adaptation happens. In practice, LoRA and intrinsic-dimension modes are the parameter-efficient branches, and Fastfood is the practical projection choice for larger ID runs.
+
 ## License
 
 MIT
