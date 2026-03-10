@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="900" viewBox="0 0 1180 900" role="img" aria-label="Learning Curves">
+<rect x="0" y="0" width="1180" height="900" fill="#ffffff" />
+<rect x="90.00" y="90.00" width="440.00" height="260.00" fill="#ffffff" stroke="#9ca3af" stroke-width="1.0" rx="0.0" opacity="1.0" />
+<line x1="90.00" y1="353.74" x2="530.00" y2="353.74" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="357.74" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">80</text>
+<line x1="90.00" y1="290.28" x2="530.00" y2="290.28" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="294.28" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">85</text>
+<line x1="90.00" y1="226.83" x2="530.00" y2="226.83" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="230.83" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">90</text>
+<line x1="90.00" y1="163.37" x2="530.00" y2="163.37" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="167.37" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">95</text>
+<line x1="90.00" y1="99.91" x2="530.00" y2="99.91" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="103.91" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">100</text>
+<line x1="90.00" y1="36.46" x2="530.00" y2="36.46" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="40.46" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">105</text>
+<line x1="90.00" y1="90.00" x2="90.00" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="90.00" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">1</text>
+<line x1="182.63" y1="90.00" x2="182.63" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="182.63" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">5</text>
+<line x1="298.42" y1="90.00" x2="298.42" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="298.42" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">10</text>
+<line x1="414.21" y1="90.00" x2="414.21" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="414.21" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">15</text>
+<line x1="530.00" y1="90.00" x2="530.00" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="530.00" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">20</text>
+<line x1="90.00" y1="350.00" x2="530.00" y2="350.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<line x1="90.00" y1="90.00" x2="90.00" y2="350.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<text x="310.00" y="72.00" font-size="16" text-anchor="middle" fill="#111827" font-family="'Times New Roman', Georgia, serif" font-weight="bold">Intrinsic Dim Accuracy Curves</text>
+<text x="310.00" y="392.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Epoch</text>
+<text x="36.00" y="220.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(-90.00 36.00 220.00)">Accuracy (%)</text>
+<rect x="650.00" y="90.00" width="440.00" height="260.00" fill="#ffffff" stroke="#9ca3af" stroke-width="1.0" rx="0.0" opacity="1.0" />
+<line x1="650.00" y1="397.55" x2="1090.00" y2="397.55" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="401.55" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">-0.20</text>
+<line x1="650.00" y1="334.14" x2="1090.00" y2="334.14" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="338.14" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.00</text>
+<line x1="650.00" y1="270.73" x2="1090.00" y2="270.73" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="274.73" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.20</text>
+<line x1="650.00" y1="207.33" x2="1090.00" y2="207.33" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="211.33" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.40</text>
+<line x1="650.00" y1="143.92" x2="1090.00" y2="143.92" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="147.92" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.60</text>
+<line x1="650.00" y1="80.51" x2="1090.00" y2="80.51" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="84.51" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.80</text>
+<line x1="650.00" y1="90.00" x2="650.00" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="650.00" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">1</text>
+<line x1="742.63" y1="90.00" x2="742.63" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="742.63" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">5</text>
+<line x1="858.42" y1="90.00" x2="858.42" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="858.42" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">10</text>
+<line x1="974.21" y1="90.00" x2="974.21" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="974.21" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">15</text>
+<line x1="1090.00" y1="90.00" x2="1090.00" y2="350.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="1090.00" y="368.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">20</text>
+<line x1="650.00" y1="350.00" x2="1090.00" y2="350.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<line x1="650.00" y1="90.00" x2="650.00" y2="350.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<text x="870.00" y="72.00" font-size="16" text-anchor="middle" fill="#111827" font-family="'Times New Roman', Georgia, serif" font-weight="bold">Intrinsic Dim Loss Curves</text>
+<text x="870.00" y="392.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Epoch</text>
+<text x="596.00" y="220.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(-90.00 596.00 220.00)">Loss</text>
+<rect x="90.00" y="500.00" width="440.00" height="260.00" fill="#ffffff" stroke="#9ca3af" stroke-width="1.0" rx="0.0" opacity="1.0" />
+<line x1="90.00" y1="763.74" x2="530.00" y2="763.74" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="767.74" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">80</text>
+<line x1="90.00" y1="700.28" x2="530.00" y2="700.28" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="704.28" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">85</text>
+<line x1="90.00" y1="636.83" x2="530.00" y2="636.83" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="640.83" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">90</text>
+<line x1="90.00" y1="573.37" x2="530.00" y2="573.37" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="577.37" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">95</text>
+<line x1="90.00" y1="509.91" x2="530.00" y2="509.91" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="513.91" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">100</text>
+<line x1="90.00" y1="446.46" x2="530.00" y2="446.46" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="450.46" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">105</text>
+<line x1="90.00" y1="500.00" x2="90.00" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="90.00" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">1</text>
+<line x1="182.63" y1="500.00" x2="182.63" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="182.63" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">5</text>
+<line x1="298.42" y1="500.00" x2="298.42" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="298.42" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">10</text>
+<line x1="414.21" y1="500.00" x2="414.21" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="414.21" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">15</text>
+<line x1="530.00" y1="500.00" x2="530.00" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="530.00" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">20</text>
+<line x1="90.00" y1="760.00" x2="530.00" y2="760.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<line x1="90.00" y1="500.00" x2="90.00" y2="760.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<text x="310.00" y="482.00" font-size="16" text-anchor="middle" fill="#111827" font-family="'Times New Roman', Georgia, serif" font-weight="bold">LoRA Accuracy Curves</text>
+<text x="310.00" y="802.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Epoch</text>
+<text x="36.00" y="630.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(-90.00 36.00 630.00)">Accuracy (%)</text>
+<rect x="650.00" y="500.00" width="440.00" height="260.00" fill="#ffffff" stroke="#9ca3af" stroke-width="1.0" rx="0.0" opacity="1.0" />
+<line x1="650.00" y1="807.55" x2="1090.00" y2="807.55" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="811.55" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">-0.20</text>
+<line x1="650.00" y1="744.14" x2="1090.00" y2="744.14" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="748.14" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.00</text>
+<line x1="650.00" y1="680.73" x2="1090.00" y2="680.73" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="684.73" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.20</text>
+<line x1="650.00" y1="617.33" x2="1090.00" y2="617.33" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="621.33" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.40</text>
+<line x1="650.00" y1="553.92" x2="1090.00" y2="553.92" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="557.92" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.60</text>
+<line x1="650.00" y1="490.51" x2="1090.00" y2="490.51" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="640.00" y="494.51" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.80</text>
+<line x1="650.00" y1="500.00" x2="650.00" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="650.00" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">1</text>
+<line x1="742.63" y1="500.00" x2="742.63" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="742.63" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">5</text>
+<line x1="858.42" y1="500.00" x2="858.42" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="858.42" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">10</text>
+<line x1="974.21" y1="500.00" x2="974.21" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="974.21" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">15</text>
+<line x1="1090.00" y1="500.00" x2="1090.00" y2="760.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="1090.00" y="778.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">20</text>
+<line x1="650.00" y1="760.00" x2="1090.00" y2="760.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<line x1="650.00" y1="500.00" x2="650.00" y2="760.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<text x="870.00" y="482.00" font-size="16" text-anchor="middle" fill="#111827" font-family="'Times New Roman', Georgia, serif" font-weight="bold">LoRA Loss Curves</text>
+<text x="870.00" y="802.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Epoch</text>
+<text x="596.00" y="630.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(-90.00 596.00 630.00)">Loss</text>
+<polyline points="90.00,323.94 113.16,209.24 136.32,180.07 159.47,165.53 182.63,156.95 205.79,144.18 228.95,211.47 252.11,155.07 275.26,140.04 298.42,130.20 321.58,123.01 344.74,117.00 367.89,112.48 391.05,110.40 414.21,106.92 437.37,105.50 460.53,104.66 483.68,103.01 506.84,102.83 530.00,102.35" stroke="#1d4ed8" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="90.00,236.47 113.16,224.42 136.32,229.75 159.47,219.09 182.63,221.24 205.79,222.77 228.95,221.88 252.11,219.21 275.26,220.74 298.42,222.64 321.58,213.50 344.74,214.01 367.89,214.39 391.05,208.17 414.21,207.16 437.37,205.13 460.53,204.87 483.68,203.73 506.84,204.36 530.00,204.24" stroke="#1d4ed8" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,122.42 673.16,244.40 696.32,269.63 719.47,283.00 742.63,290.84 765.79,299.99 788.95,234.72 812.11,290.51 835.26,302.50 858.42,310.47 881.58,316.07 904.74,320.14 927.89,323.54 951.05,325.35 974.21,327.77 997.37,328.98 1020.53,329.65 1043.68,330.87 1066.84,330.88 1090.00,331.14" stroke="#1d4ed8" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,217.55 673.16,224.02 696.32,218.23 719.47,225.70 742.63,223.80 765.79,218.88 788.95,228.70 812.11,226.68 835.26,221.81 858.42,216.77 881.58,220.09 904.74,218.59 927.89,217.76 951.05,221.94 974.21,223.57 997.37,225.21 1020.53,225.78 1043.68,226.51 1066.84,227.41 1090.00,227.61" stroke="#1d4ed8" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="90.00,338.18 113.16,210.38 136.32,185.56 159.47,167.86 182.63,156.82 205.79,146.49 228.95,137.68 252.11,131.95 275.26,124.36 298.42,120.17 321.58,114.84 344.74,111.13 367.89,107.96 391.05,106.87 414.21,104.53 437.37,103.42 460.53,103.19 483.68,102.35 506.84,102.02 530.00,101.82" stroke="#dc2626" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="90.00,239.90 113.16,222.01 136.32,219.59 159.47,225.56 182.63,228.86 205.79,224.67 228.95,225.56 252.11,219.59 275.26,222.89 298.42,213.38 321.58,209.44 344.74,208.55 367.89,207.79 391.05,206.39 414.21,205.51 437.37,203.35 460.53,203.10 483.68,203.22 506.84,200.68 530.00,200.94" stroke="#dc2626" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,107.93 673.16,244.34 696.32,267.23 719.47,280.90 742.63,290.08 765.79,298.34 788.95,305.38 812.11,309.18 835.26,315.07 858.42,317.50 881.58,322.15 904.74,324.83 927.89,326.88 951.05,328.11 974.21,329.76 997.37,330.72 1020.53,331.17 1043.68,331.63 1066.84,331.98 1090.00,332.07" stroke="#dc2626" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,219.45 673.16,233.36 696.32,229.09 719.47,224.99 742.63,218.82 765.79,219.93 788.95,218.08 812.11,220.59 835.26,219.15 858.42,217.04 881.58,222.00 904.74,221.79 927.89,219.76 951.05,223.91 974.21,224.21 997.37,222.65 1020.53,223.43 1043.68,222.08 1066.84,223.83 1090.00,224.19" stroke="#dc2626" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="90.00,707.72 113.16,640.38 136.32,627.26 159.47,619.03 182.63,603.81 205.79,592.51 228.95,579.92 252.11,573.98 275.26,562.48 298.42,553.83 321.58,545.81 344.74,534.61 367.89,529.00 391.05,523.11 414.21,520.68 437.37,516.18 460.53,514.56 483.68,513.39 506.84,512.35 530.00,512.45" stroke="#1d4ed8" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="90.00,656.63 113.16,662.08 136.32,651.42 159.47,652.82 182.63,658.91 205.79,653.20 228.95,645.08 252.11,640.00 275.26,631.75 298.42,633.78 321.58,629.47 344.74,627.44 367.89,631.50 391.05,618.55 414.21,615.38 437.37,614.87 460.53,613.35 483.68,609.92 506.84,610.05 530.00,609.92" stroke="#1d4ed8" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,566.21 673.16,638.67 696.32,651.04 719.47,659.38 742.63,671.05 765.79,680.82 788.95,690.68 812.11,695.57 835.26,704.10 858.42,712.03 881.58,717.33 904.74,725.29 927.89,729.97 951.05,734.01 974.21,735.91 997.37,738.85 1020.53,740.35 1043.68,740.96 1066.84,741.91 1090.00,741.97" stroke="#1d4ed8" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,622.24 673.16,615.72 696.32,623.12 719.47,620.39 742.63,612.88 765.79,612.76 788.95,617.65 812.11,622.84 835.26,628.52 858.42,614.48 881.58,618.78 904.74,619.09 927.89,605.44 951.05,610.41 974.21,614.54 997.37,605.56 1020.53,605.13 1043.68,607.99 1066.84,606.62 1090.00,605.94" stroke="#1d4ed8" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="90.00,708.36 113.16,638.33 136.32,626.17 159.47,614.31 182.63,610.20 205.79,598.02 228.95,581.37 252.11,574.08 275.26,563.70 298.42,553.78 321.58,544.43 344.74,534.84 367.89,529.84 391.05,523.34 414.21,520.30 437.37,516.62 460.53,515.24 483.68,513.47 506.84,512.86 530.00,512.61" stroke="#dc2626" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="90.00,654.47 113.16,676.04 136.32,656.75 159.47,659.29 182.63,662.21 205.79,639.75 228.95,651.30 252.11,640.38 275.26,640.76 298.42,638.73 321.58,632.26 344.74,627.69 367.89,624.14 391.05,619.57 414.21,620.46 437.37,615.51 460.53,613.60 483.68,612.84 506.84,611.19 530.00,610.94" stroke="#dc2626" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,565.61 673.16,639.52 696.32,650.99 719.47,661.17 742.63,666.64 765.79,676.84 788.95,690.74 812.11,695.74 835.26,704.08 858.42,712.27 881.58,718.82 904.74,725.02 927.89,729.72 951.05,733.83 974.21,736.11 997.37,738.80 1020.53,740.01 1043.68,740.94 1066.84,741.57 1090.00,741.92" stroke="#dc2626" stroke-width="2.0" fill="none" opacity="0.88" stroke-dasharray="7 5" stroke-linecap="round" stroke-linejoin="round" />
+<polyline points="650.00,622.17 673.16,606.30 696.32,616.95 719.47,617.76 742.63,616.54 765.79,623.59 788.95,611.58 812.11,618.65 835.26,618.08 858.42,616.73 881.58,616.25 904.74,615.56 927.89,615.09 951.05,606.80 974.21,607.21 997.37,605.58 1020.53,604.60 1043.68,605.52 1066.84,604.50 1090.00,604.06" stroke="#dc2626" stroke-width="2.3" fill="none" opacity="0.98" stroke-linecap="round" stroke-linejoin="round" />
+<rect x="930.00" y="120.00" width="180.00" height="102.00" fill="#ffffff" stroke="#d1d5db" stroke-width="0.8" rx="8" opacity="1.0" />
+<line x1="942.00" y1="135.00" x2="956.00" y2="135.00" stroke="#1d4ed8" stroke-width="2.0" opacity="1.0" stroke-dasharray="6 4" />
+<text x="964.00" y="138.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">seed 42 train</text>
+<line x1="942.00" y1="157.00" x2="956.00" y2="157.00" stroke="#1d4ed8" stroke-width="2.4" opacity="1.0" />
+<text x="964.00" y="160.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">seed 42 test</text>
+<line x1="942.00" y1="179.00" x2="956.00" y2="179.00" stroke="#dc2626" stroke-width="2.0" opacity="1.0" stroke-dasharray="6 4" />
+<text x="964.00" y="182.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">seed 43 train</text>
+<line x1="942.00" y1="201.00" x2="956.00" y2="201.00" stroke="#dc2626" stroke-width="2.4" opacity="1.0" />
+<text x="964.00" y="204.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">seed 43 test</text>
+</svg>

@@ -1,0 +1,3 @@
+mode,n,best_mean,best_std,final_mean,final_std,train_mean,gap_mean,trainable_mean
+id_module,2,91.9400,0.1200,91.9100,0.1300,99.8290,7.9190,666724.0
+lora,2,92.0800,0.0400,92.0800,0.0400,99.7940,7.7140,666724.0

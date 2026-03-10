@@ -1,0 +1,5 @@
+mode,seed,best_test_acc,final_test_acc,final_train_acc,generalization_gap,epochs_trained,trainable_params,total_params,total_time_sec,total_time_hours,lr,weight_decay,grad_accum_steps,no_amp,json_path
+id_module,42,91.8200,91.7800,99.8080,8.0280,20,666724,86542280,90539.66,25.1499,0.001,0.0001,4,1,results/vit_intrinsic/cifar100/id_module/cifar100__id_module__vit_base_patch16_224__d-666724__proj-fastfood__idscope-qkvo__ga-4__seed-42.json
+id_module,43,92.0600,92.0400,99.8500,7.8100,20,666724,86542280,14401.01,4.0003,0.001,0.0001,4,1,results/vit_intrinsic/cifar100/id_module/cifar100__id_module__vit_base_patch16_224__d-666724__proj-fastfood__idscope-qkvo__ga-4__seed-43.json
+lora,42,92.1200,92.1200,99.8000,7.6800,20,666724,86465380,3114.08,0.8650,0.001,0.0,4,0,results/vit_intrinsic/cifar100/lora/cifar100__lora__vit_base_patch16_224__scope-qkvo__r-8__ga-4__seed-42.json
+lora,43,92.0400,92.0400,99.7880,7.7480,20,666724,86465380,3081.75,0.8560,0.001,0.0,4,0,results/vit_intrinsic/cifar100/lora/cifar100__lora__vit_base_patch16_224__scope-qkvo__r-8__ga-4__seed-43.json

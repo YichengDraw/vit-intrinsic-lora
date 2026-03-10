@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-label="Seed-43 Runtime Tradeoff">
+<rect x="0" y="0" width="1000" height="440" fill="#ffffff" />
+<rect x="80.00" y="80.00" width="360.00" height="260.00" fill="#ffffff" stroke="#9ca3af" stroke-width="1.0" rx="0.0" opacity="1.0" />
+<line x1="80.00" y1="340.00" x2="440.00" y2="340.00" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="70.00" y="344.00" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0</text>
+<line x1="80.00" y1="282.22" x2="440.00" y2="282.22" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="70.00" y="286.22" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">1</text>
+<line x1="80.00" y1="224.44" x2="440.00" y2="224.44" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="70.00" y="228.44" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">2</text>
+<line x1="80.00" y1="166.67" x2="440.00" y2="166.67" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="70.00" y="170.67" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">3</text>
+<line x1="80.00" y1="108.89" x2="440.00" y2="108.89" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="70.00" y="112.89" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">4</text>
+<line x1="170.00" y1="80.00" x2="170.00" y2="340.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="170.00" y="358.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Intrinsic Dim</text>
+<line x1="350.00" y1="80.00" x2="350.00" y2="340.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="350.00" y="358.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">LoRA</text>
+<line x1="80.00" y1="340.00" x2="440.00" y2="340.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<line x1="80.00" y1="80.00" x2="80.00" y2="340.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<text x="260.00" y="62.00" font-size="16" text-anchor="middle" fill="#111827" font-family="'Times New Roman', Georgia, serif" font-weight="bold">Runtime on the Same 4090 Host</text>
+<text x="260.00" y="382.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Method</text>
+<text x="26.00" y="210.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(-90.00 26.00 210.00)">Runtime (hours)</text>
+<rect x="580.00" y="80.00" width="320.00" height="260.00" fill="#ffffff" stroke="#9ca3af" stroke-width="1.0" rx="0.0" opacity="1.0" />
+<line x1="580.00" y1="340.00" x2="900.00" y2="340.00" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="570.00" y="344.00" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">91.8</text>
+<line x1="580.00" y1="253.33" x2="900.00" y2="253.33" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="570.00" y="257.33" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">91.9</text>
+<line x1="580.00" y1="166.67" x2="900.00" y2="166.67" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="570.00" y="170.67" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">92.0</text>
+<line x1="580.00" y1="80.00" x2="900.00" y2="80.00" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="570.00" y="84.00" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">92.1</text>
+<line x1="580.00" y1="80.00" x2="580.00" y2="340.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="580.00" y="358.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0</text>
+<line x1="651.11" y1="80.00" x2="651.11" y2="340.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="651.11" y="358.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">1</text>
+<line x1="722.22" y1="80.00" x2="722.22" y2="340.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="722.22" y="358.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">2</text>
+<line x1="793.33" y1="80.00" x2="793.33" y2="340.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="793.33" y="358.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">3</text>
+<line x1="864.44" y1="80.00" x2="864.44" y2="340.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="864.44" y="358.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">4</text>
+<line x1="580.00" y1="340.00" x2="900.00" y2="340.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<line x1="580.00" y1="80.00" x2="580.00" y2="340.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<text x="740.00" y="62.00" font-size="16" text-anchor="middle" fill="#111827" font-family="'Times New Roman', Georgia, serif" font-weight="bold">Accuracy vs Runtime</text>
+<text x="740.00" y="382.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Runtime (hours)</text>
+<text x="526.00" y="210.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(-90.00 526.00 210.00)">Final accuracy (%)</text>
+<rect x="137.60" y="108.87" width="64.80" height="231.13" fill="#0f766e" stroke="#111827" stroke-width="0.7" rx="0.0" opacity="1.0" />
+<text x="170.00" y="100.87" font-size="10" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">4.00 h</text>
+<circle cx="864.46" cy="132.00" r="7.00" fill="#0f766e" stroke="#111827" stroke-width="0.8" />
+<text x="874.46" y="124.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Intrinsic Dim</text>
+<rect x="317.60" y="290.54" width="64.80" height="49.46" fill="#b45309" stroke="#111827" stroke-width="0.7" rx="0.0" opacity="1.0" />
+<text x="350.00" y="282.54" font-size="10" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">0.86 h</text>
+<circle cx="640.87" cy="132.00" r="7.00" fill="#b45309" stroke="#111827" stroke-width="0.8" />
+<text x="650.87" y="124.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">LoRA</text>
+<text x="735.00" y="370.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Intrinsic Dim is 4.67x slower than LoRA on seed 43.</text>
+</svg>

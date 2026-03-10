@@ -75,6 +75,7 @@ Main modes are `full`, `linear`, `lora`, `id_module`, and `id_full`.
 - `scripts/test_vit_intrinsic_pipeline.py`: smoke test
 - `src/models/lora.py`: LoRA wrappers
 - `src/models/subspace.py`: intrinsic-dimension wrapper
+- `scripts/visualize_final_results.py`: pure-Python SVG figure generator for the final CIFAR-100 study
 
 ## Visual Summary
 
@@ -91,6 +92,48 @@ flowchart LR
 ```
 
 This is the comparison the repository is built around: keep the same base ViT, then vary how many parameters are trainable and where adaptation happens. In practice, LoRA and intrinsic-dimension modes are the parameter-efficient branches, and Fastfood is the practical projection choice for larger ID runs.
+
+## CIFAR-100 Final Study
+
+The final controlled comparison uses `vit_base_patch16_224` on `CIFAR-100`, with both parameter-efficient methods constrained to about `666,724` trainable parameters and evaluated on seeds `42` and `43`.
+
+| Method | Mean final acc. | Mean best acc. | Trainable params | Fair runtime (seed 43) |
+| --- | ---: | ---: | ---: | ---: |
+| Intrinsic Dim | 91.91 | 91.94 | 666,724 | 4.00 h |
+| LoRA | 92.08 | 92.08 | 666,724 | 0.86 h |
+
+Key takeaways:
+
+- LoRA is only `0.17` points higher in mean final accuracy.
+- Intrinsic-dim remains competitive at the same parameter budget.
+- The main practical gap is runtime: on the same 4090 host, intrinsic-dim is about `4.67x` slower.
+- The early failed `d=371812` run was a configuration issue, not evidence that the method is inherently broken.
+
+### Key Figures
+
+![Final accuracy by seed](docs/figures/final_analysis/final_accuracy_by_seed.svg)
+
+Final accuracy remains tightly matched across both seeds.
+
+![Runtime tradeoff on seed 43](docs/figures/final_analysis/runtime_tradeoff_seed43.svg)
+
+Runtime, not accuracy, is where LoRA separates itself in practice.
+
+![Intrinsic-dim tuning trajectory](docs/figures/final_analysis/id_tuning_trajectory.svg)
+
+The tuning trajectory shows why the final intrinsic-dim result should be interpreted as a tuned configuration rather than an untuned baseline.
+
+A full write-up with all charts and methodological notes is in [docs/final_cifar100_analysis.md](docs/final_cifar100_analysis.md).
+
+## Reproduce the Figures
+
+The committed charts are generated directly from the saved experiment JSON files and do not require Matplotlib:
+
+```bash
+python3 scripts/visualize_final_results.py
+```
+
+Outputs are written to `docs/figures/final_analysis/`.
 
 ## License
 

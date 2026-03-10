@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="520" viewBox="0 0 1120 520" role="img" aria-label="Intrinsic-Dim Tuning Trajectory">
+<rect x="0" y="0" width="1120" height="520" fill="#ffffff" />
+<rect x="90.00" y="80.00" width="900.00" height="290.00" fill="#ffffff" stroke="#9ca3af" stroke-width="1.0" rx="0.0" opacity="1.0" />
+<line x1="90.00" y1="370.00" x2="990.00" y2="370.00" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="374.00" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">75</text>
+<line x1="90.00" y1="289.44" x2="990.00" y2="289.44" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="293.44" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">80</text>
+<line x1="90.00" y1="208.89" x2="990.00" y2="208.89" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="212.89" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">85</text>
+<line x1="90.00" y1="128.33" x2="990.00" y2="128.33" stroke="#d1d5db" stroke-width="0.9" opacity="1.0" stroke-dasharray="4 4" />
+<text x="80.00" y="132.33" font-size="11" text-anchor="end" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal">90</text>
+<line x1="130.91" y1="80.00" x2="130.91" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="130.91" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 130.91 394.00)">s1-c004</text>
+<line x1="212.73" y1="80.00" x2="212.73" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="212.73" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 212.73 394.00)">s1-c005</text>
+<line x1="294.55" y1="80.00" x2="294.55" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="294.55" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 294.55 394.00)">s1-c003</text>
+<line x1="376.36" y1="80.00" x2="376.36" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="376.36" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 376.36 394.00)">s1-c002</text>
+<line x1="458.18" y1="80.00" x2="458.18" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="458.18" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 458.18 394.00)">s1-c000</text>
+<line x1="540.00" y1="80.00" x2="540.00" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="540.00" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 540.00 394.00)">s1-c001</text>
+<line x1="621.82" y1="80.00" x2="621.82" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="621.82" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 621.82 394.00)">s2-c004</text>
+<line x1="703.64" y1="80.00" x2="703.64" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="703.64" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 703.64 394.00)">s2-c003</text>
+<line x1="785.45" y1="80.00" x2="785.45" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="785.45" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 785.45 394.00)">s2-c005</text>
+<line x1="867.27" y1="80.00" x2="867.27" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="867.27" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 867.27 394.00)">s3-c003</text>
+<line x1="949.09" y1="80.00" x2="949.09" y2="370.00" stroke="#d1d5db" stroke-width="0.8" opacity="0.55" stroke-dasharray="4 4" />
+<text x="949.09" y="394.00" font-size="11" text-anchor="middle" fill="#6b7280" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(40.00 949.09 394.00)">s3-c004</text>
+<line x1="90.00" y1="370.00" x2="990.00" y2="370.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<line x1="90.00" y1="80.00" x2="90.00" y2="370.00" stroke="#111827" stroke-width="1.2" opacity="1.0" />
+<text x="540.00" y="62.00" font-size="16" text-anchor="middle" fill="#111827" font-family="'Times New Roman', Georgia, serif" font-weight="bold">Intrinsic-Dim Tuning Trajectory</text>
+<text x="540.00" y="412.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Candidate / stage</text>
+<text x="36.00" y="225.00" font-size="12" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal" transform="rotate(-90.00 36.00 225.00)">Best validation accuracy (%)</text>
+<rect x="103.09" y="124.56" width="55.64" height="245.44" fill="#c2410c" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="130.91" y="116.56" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">90.23</text>
+<rect x="184.91" y="130.06" width="55.64" height="239.94" fill="#c2410c" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="212.73" y="122.06" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">89.89</text>
+<rect x="266.73" y="140.29" width="55.64" height="229.71" fill="#c2410c" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="294.55" y="132.29" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">89.26</text>
+<rect x="348.55" y="141.08" width="55.64" height="228.92" fill="#c2410c" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="376.36" y="133.08" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">89.21</text>
+<rect x="430.36" y="340.89" width="55.64" height="29.11" fill="#c2410c" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="458.18" y="332.89" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">76.81</text>
+<rect x="512.18" y="340.89" width="55.64" height="29.11" fill="#c2410c" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="540.00" y="332.89" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">76.81</text>
+<rect x="594.00" y="97.81" width="55.64" height="272.19" fill="#2563eb" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="621.82" y="89.81" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">91.89</text>
+<rect x="675.82" y="107.25" width="55.64" height="262.75" fill="#2563eb" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="703.64" y="99.25" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">91.31</text>
+<rect x="757.64" y="113.54" width="55.64" height="256.46" fill="#2563eb" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="785.45" y="105.54" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">90.92</text>
+<rect x="839.45" y="102.53" width="55.64" height="267.47" fill="#047857" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="867.27" y="94.53" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">91.60</text>
+<rect x="921.27" y="103.32" width="55.64" height="266.68" fill="#047857" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="949.09" y="95.32" font-size="9" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">91.55</text>
+<line x1="90.00" y1="99.01" x2="990.00" y2="99.01" stroke="#0f766e" stroke-width="1.5" opacity="1.0" stroke-dasharray="8 5" />
+<line x1="90.00" y1="95.14" x2="990.00" y2="95.14" stroke="#134e4a" stroke-width="1.5" opacity="1.0" stroke-dasharray="2 6" />
+<rect x="830.00" y="92.00" width="180.00" height="124.00" fill="#ffffff" stroke="#d1d5db" stroke-width="0.8" rx="8" opacity="1.0" />
+<rect x="842.00" y="102.00" width="14.00" height="10.00" fill="#c2410c" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="864.00" y="110.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Stage 1 (5 epochs)</text>
+<rect x="842.00" y="124.00" width="14.00" height="10.00" fill="#2563eb" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="864.00" y="132.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Stage 2 (10 epochs)</text>
+<rect x="842.00" y="146.00" width="14.00" height="10.00" fill="#047857" stroke="#111827" stroke-width="0.6" rx="0.0" opacity="1.0" />
+<text x="864.00" y="154.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Stage 3 (20 epochs)</text>
+<line x1="842.00" y1="173.00" x2="856.00" y2="173.00" stroke="#0f766e" stroke-width="2.0" opacity="1.0" stroke-dasharray="6 4" />
+<text x="864.00" y="176.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Final seed 42</text>
+<line x1="842.00" y1="195.00" x2="856.00" y2="195.00" stroke="#134e4a" stroke-width="2.0" opacity="1.0" stroke-dasharray="6 4" />
+<text x="864.00" y="198.00" font-size="11" text-anchor="start" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-weight="normal">Final seed 43</text>
+</svg>
